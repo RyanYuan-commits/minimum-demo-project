@@ -1,0 +1,3 @@
+rootProject.name = 'minimum-demo-project'
+include 'minimum-dfa'
+
